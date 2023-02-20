@@ -1,12 +1,13 @@
 # Statistics-in-Neuroscience-data-portfolio
 As part of my 'Statistics in Neuroscience' course in the first year of my masters, we were required to submit a data portfolio demonstrating our implementation of 
 statistics in R based on the topics we covered. I was provided with a dataset which included a set of (simulated) variables pertaining to factors that influence 
-the risk of develping diabetes. This dataset was used to formulate a research question, which I was able to answer by carrying out various types of statistical analyses  
-explored in this course. 
+the risk of develping diabetes. This dataset was used to formulate a research question, which I was able to answer by carrying out various types of statistical analyses explored in this course. 
 
 The final portfolio consisted of two components:
 1) A poster, as suitable for presentation at a scientific conference 
 2) The R script used to explore my dataset and generate results shown in the poster
+
+FINAL GRADE: 8.82/10
 
 Data portfolio instructions: 
 
