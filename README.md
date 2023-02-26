@@ -9,6 +9,8 @@ The final portfolio consisted of two components:
 
 FINAL GRADE: 8.82/10
 
+Link to poster: https://drive.google.com/file/d/1GdqW8GbEbOXNsVYTMA88a6EKmqWBHf6p/view?usp=sharing 
+
 Data portfolio instructions: 
 
 A group of researchers is interested in what factors influence risk of developing diabetes. They recruited 150 adults from the general population using 
