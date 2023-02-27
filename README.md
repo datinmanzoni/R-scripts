@@ -1,3 +1,11 @@
+# Masters-Year-1-Internship-statistical-analyses
+
+As part of my first year internship, investigating emotional processing in OCD with comorbid depression using task-based fMRI, I conducted several statistical analyses for my research project. The following R scripts are included:
+1) Correlation_madrs_roi.R - Correlational analysis between MADRS scores and different ROIs in OCD subjects
+2) YBOCS_MADRS_normality.R - Test for normality of YBOCS and MADRS scores
+3) Clinical_variable_analyses.R - Descriptive statistics of clinical variables (age, gender, MADRS scores, OCD severity) in OCD subjects and healthy controls 
+4) Correlation_madrs_ybocs.R - Correlational analysis between MADRS and OCD severity 
+
 # Statistics-in-Neuroscience-data-portfolio
 As part of my 'Statistics in Neuroscience' course in the first year of my masters, we were required to submit a data portfolio demonstrating our implementation of 
 statistics in R based on the topics we covered. I was provided with a dataset which included a set of (simulated) variables pertaining to factors that influence 
@@ -23,3 +31,4 @@ The researchers’ aim is to identify what factors put people at risk for develo
 these risk factors are associated with patterns of change in glucose levels throughout the day.
 
 What conclusions can you draw about diabetes risk factors and blood glucose levels based on this dataset?
+
